@@ -1,0 +1,6 @@
+.place__image {
+    grid-column-start: 1;
+    grid-column-end: span 1;
+    width: 100%;
+    max-width: 460px;
+}
