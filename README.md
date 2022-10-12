@@ -10,4 +10,4 @@ ___
 3. Работа с медиазапросами;
 4. Работа с макетом в figma.
 
-[Ссылка на проект](https://www.yandex.ru) 
+[Ссылка на проект](https://chill-peppa.github.io/russian-travel/index.html) 
